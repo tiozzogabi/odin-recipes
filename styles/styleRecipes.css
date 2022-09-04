@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+}
+
+
+
+h1, h2, h3, h4{
+    text-align: center;
+    background-color: white;
+}
+
+ li, p{
+    background-color: white;
+    color: rgb(54, 54, 54);
+
+}
+
+li{
+    margin-top: 5px;
+}
